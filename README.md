@@ -1,10 +1,11 @@
+![topper](https://github.com/user-attachments/assets/dabf7d9c-4560-4694-8ef8-d9f262ed07e6)
+
 <h1 align="center">👋 Olá, seja bem-vindo(a) ao meu GitHub!</h1>
 
 ### 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Nicofranca&show_icons=true&theme=dark&count_private=true" alt="Nicofranca's GitHub stats" height="180em"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nicofranca&layout=compact&theme=dark&cache_seconds=60" alt="Top languages" height="180em"/>
 </p>
 
 [![Nicofranca's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Nicofranca&theme=tokyo-night&hide_border=true&area=true)](https://github.com/Nicofranca/github-readme-activity-graph)
@@ -102,6 +103,8 @@ Sou **estudante no CentroWEG**. Minhas habilidades tecnologicas, incluem:
   <a href="mailto:nicollas_franca@estudante.sesisenai.org.br" target="_blank">
     <img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
+
+  ![footer](https://github.com/user-attachments/assets/6098bc3b-1a35-4df2-85a2-c33028e73512)
   <a href="https://www.linkedin.com/in/nicollas-franca" target="_blank">
     <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
