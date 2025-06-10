@@ -42,9 +42,6 @@ Sou **estudante no CentroWEG**. Minhas habilidades tecnologicas, incluem:
   <a href="https://www.mysql.com/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40px" title="MySQL"/>
   </a>
-  <a href="https://mariadb.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original.svg" width="40px" title="MariaDB"/>
-  </a>
 
   <!-- Versionamento e plataformas -->
   <a href="https://git-scm.com/" target="_blank">
@@ -67,6 +64,9 @@ Sou **estudante no CentroWEG**. Minhas habilidades tecnologicas, incluem:
   <a href="https://www.eclipse.org/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" width="40px" title="Eclipse"/>
   </a>
+  <a href="https://www.intellij.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="40px" title="Intellij"/>
+  </a>
 
   <!-- Outros -->
  <a href="https://www.arduino.cc/" target="_blank">
@@ -77,9 +77,6 @@ Sou **estudante no CentroWEG**. Minhas habilidades tecnologicas, incluem:
 </a>
 <a href="https://www.tinkercad.com/" target="_blank">
   <img src="https://www.tinkercad.com/favicon.ico" width="40px" title="Tinkercad"/>
-</a>
-<a href="https://education.lego.com/pt-br/downloads/mindstorms-ev3/software/" target="_blank">
-  <img src="https://www.lego.com/favicon.ico" width="40px" title="EV3"/>
 </a>
 
   <!-- Ferramentas de design e produtividade -->
