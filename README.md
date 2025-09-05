@@ -4,22 +4,20 @@
 
 ### 📊 GitHub Stats
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-src="https://github-readme-stats.vercel.app/api?username=Nicofranca&show_icons=true&count_private=true&theme=tokyonight&locale=pt-br&cache_seconds=1800"  />
-
-<img 
-      align="left" 
+<div align= "center">
+  <p>
+    <img 
       alt="GitHub Stats" 
-      height="200" 
+      height="500" 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nicofranca&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&cache_seconds=1800" 
   />
-<div >
-
+    
+  <img  
+    alt="GitHub Stats" 
+    height="500" 
+    style="padding-right: 10px;" 
+src="https://github-readme-stats.vercel.app/api?username=Nicofranca&show_icons=true&count_private=true&theme=tokyonight&locale=pt-br&cache_seconds=1800"  />
+</div>
 
 </p>
 
