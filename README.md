@@ -17,6 +17,9 @@
     height="500" 
     style="padding-right: 10px;" 
 src="https://github-readme-stats.vercel.app/api?username=Nicofranca&show_icons=true&count_private=true&theme=tokyonight&locale=pt-br&cache_seconds=1800"  />
+
+![](https://nirzak-streak-stats.vercel.app/?user=Nicofranca&theme=aura&hide_border=false)<br/>
+
 </div>
 
 </p>
