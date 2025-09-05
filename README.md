@@ -4,11 +4,24 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nicofranca&show_icons=true&theme=dark&count_private=true" alt="Nicofranca's GitHub stats" height="180em"/>
-</p>
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+src="https://github-readme-stats.vercel.app/api?username=Nicofranca&show_icons=true&count_private=true&theme=tokyonight&locale=pt-br&cache_seconds=1800"  />
 
-[![Nicofranca's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Nicofranca&theme=tokyo-night&hide_border=true&area=true)](https://github.com/Nicofranca/github-readme-activity-graph)
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nicofranca&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&cache_seconds=1800" 
+  />
+<div >
+
+
+</p>
 
 ### 🎓 Sobre mim
 
