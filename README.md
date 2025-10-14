@@ -59,24 +59,6 @@ Sou **estudante no CentroWEG**. Minhas habilidades tecnologicas, incluem:
     <img src="https://railway.app/favicon.ico" width="40px" title="Railway"/>
   </a>
 
-  <!-- Editores e IDEs -->
-  <a href="https://code.visualstudio.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40px" title="VSCode"/>
-  </a>
-  <a href="https://www.eclipse.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" width="40px" title="Eclipse"/>
-  </a>
-  <a href="https://www.intellij.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="40px" title="Intellij"/>
-  </a>
-
-  <!-- Outros -->
- <a href="https://www.arduino.cc/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="40px" title="Arduino"/>
-</a>
-<a href="https://www.tinkercad.com/" target="_blank">
-  <img src="https://www.tinkercad.com/favicon.ico" width="40px" title="Tinkercad"/>
-</a>
 
   <!-- Ferramentas de design e produtividade -->
 </p>
