@@ -63,7 +63,6 @@ Sou **estudante no CentroWEG**. Minhas habilidades tecnologicas, incluem:
   <!-- Ferramentas de design e produtividade -->
 </p>
 
-### 🧭 Onde me achar?
 
 <p align="center">
   <a href="mailto:nicollas_franca@estudante.sesisenai.org.br" target="_blank">
