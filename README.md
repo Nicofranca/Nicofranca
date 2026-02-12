@@ -6,17 +6,7 @@
 
 <div align= "center">
   <p>
-    <img 
-      alt="GitHub Stats" 
-      height="500" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nicofranca&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&cache_seconds=1800" 
-  />
-    
-  <img  
-    alt="GitHub Stats" 
-    height="500" 
-    style="padding-right: 10px;" 
-src="https://github-readme-stats.vercel.app/api?username=Nicofranca&show_icons=true&count_private=true&theme=tokyonight&locale=pt-br&cache_seconds=1800"  />
+    <img src="https://streak-stats.demolab.com/?user=Nicofranca&theme=dark&background=000000&ring=004B9B&fire=FFFFFF&currStreakLabel=004B9B&sideNums=FFFFFF&currStreakNum=004B9B&sideLabels=004B9B&dates=FFFFFF&hide_border=false&exclude_days=Sat,Sun" width="500"/>
 
 ![](https://nirzak-streak-stats.vercel.app/?user=Nicofranca&theme=aura&hide_border=false)<br/>
 
