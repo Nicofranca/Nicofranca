@@ -3,7 +3,7 @@
 <h1 align="start">Olá, me chamo Nícollas França!</h1>
 
 <p>
- Sou Aprendiz na WEG, cursando o último semestre de Desenvolvimento de Sistemas pelo CentroWEG. Tenho foco especial em Back-End, utilizando Java e Spring Boot, mas busco constantemente ampliar meus conhecimentos para atuar com excelência em projetos Web e Mobile. Seja bem-vindo ao meu perfil; sinta-se à vontade para explorar e colaborar!
+ Sou Aprendiz na WEG, cursando o último semestre de Desenvolvimento de Sistemas pelo CentroWEG. Tenho foco especial em Back-End, utilizando Java e Spring Boot, mas busco constantemente ampliar meus conhecimentos para atuar com excelência em projetos Web e Mobile. Seja bem-vindo ao meu perfil; sinta-se à vontade para explorar e colaborar! ----
 </p>
 
 <p align="start">
